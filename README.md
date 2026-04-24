@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://dummyimage.com/2000x12/ffffff/ffffff" width="100%" style="border-radius:100px;"/>
+  <img src="https://dummyimage.com/2000x12/ffffff/ffffff" width="100%"/>
 </p>
 <h1 align="center"> Hey!!! Im juanse.</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" height="150" style="border-radius:100px;"/>
+  <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" height="150""/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Content+Creator;Frontend+Developer;3D+Modeling/Animation"/>
