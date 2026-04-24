@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=header"/>
+</p>
+
 ## Hhhheeeeeyyyyy, Im Juanse!!
+
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" style="width=50px"/>
 </p>
