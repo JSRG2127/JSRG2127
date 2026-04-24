@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=10&radius=20"/>
+  <img src="https://via.placeholder.com/1200x12/ffffff/ffffff" width="100%" style="border-radius:50px;"/>
 </p>
-
 <h1> Hey!!! Im juanse.</h1>
 
 <p align="center">
@@ -50,7 +49,7 @@ The digital world means a lot to me; all the art and work behind it is simply fa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSRG2127&layout=compact&theme=radical"/>
 </p>
 <br> </br>
-<h1> See whatever you like! You are welcome to my profile. </h1>
+<h1 align="center"> See whatever you like! You are welcome to my profile. </h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=10&radius=20"/>
+  <img src="https://via.placeholder.com/1200x12/ffffff/ffffff" width="100%" style="border-radius:50px;"/>
 </p>
