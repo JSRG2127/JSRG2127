@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif" width="200"/>
+  <img src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif" width="100%"/>
 </p>
 
 <h1> Hey!!! Im juanse.</h1>
