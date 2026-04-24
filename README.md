@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif" height="20" width="200"/>
+  <img src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif" width="200"/>
 </p>
 
 <h1> Hey!!! Im juanse.</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" style="width=20px"/>
+  <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" style="width=5px"/>
 </p>
 <br> </br>
 <p align="center">
