@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif"/>
+  <img src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif" height="20" width="200"/>
 </p>
 
 <h1> Hey!!! Im juanse.</h1>
@@ -13,13 +13,13 @@
 </p>
 <p align="center">
   <a href="jsrangel@unbosque.edu.co">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/3840px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png?style=for-the-badge&logo=outlook&logoColor=660000"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/3840px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png?style=for-the-badge&logo=outlook&logoColor=660000"height="20"/>
   </a>
   <a href="https://discord.com/users/souluck">
-    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Emblem.png?style=for-the-badge&logo=discord&logoColor=660000"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Emblem.png?style=for-the-badge&logo=discord&logoColor=660000"height="20"/>
   </a>
    <a href="https://steamcommunity.com/id/souluck/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png?_=20220611141426?style=for-the-badge&logo=steam&logoColor=660000"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png?_=20220611141426?style=for-the-badge&logo=steam&logoColor=660000"height="20"/>
   </a>
 </p>
 <br> </br>
