@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/red-hacker-matrix-rxowhi05xduket6f.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40"/>
 </p>
 
 <h1> Hey!!! Im juanse.</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" style="width=5px"/>
+  <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" height="70"/>
 </p>
 <br> </br>
 <p align="center">
@@ -36,5 +36,19 @@ The digital world means a lot to me; all the art and work behind it is simply fa
 <h1>
   Tools that i use
 </h1>
+<p align="center">
+  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/blender-3d.png" height="40"/>
+  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/davinci-resolve.png" height="40"/>
+  <img src="https://img.icons8.com/ios11/512/FFFFFF/adobe-photoshop.png" height="40"/>
+  <img src="https://code.visualstudio.com/assets/branding/code-stable-white.png" height="40"/>
+  <img src="https://www.shareicon.net/download/2016/08/01/639963_development_512x512.png" height="40"/>
+  <img src="https://www.pngkey.com/png/full/141-1415612_css-css3-logo-black-and-white.png" height="40"/>
+  <img src="https://img.icons8.com/ios_filled/512/FFFFFF/javascript.png" height="40"/>
+</p>
 
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSRG2127&layout=compact&theme=radical"/>
+</p>
