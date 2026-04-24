@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x12/ffffff/ffffff" width="100%" style="border-radius:50px;"/>
+  <img src="https://dummyimage.com/2000x12/ffffff/ffffff" width="100%" style="border-radius:100px;"/>
 </p>
 <h1> Hey!!! Im juanse.</h1>
 
@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/736x/96/4f/c0/964fc0e6080055c6d252a51069392390.jpg" height="150"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=660000&center=true&vCenter=true&lines=Content+Creator;Frontend+Developer;3D+Modeling/Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=white&center=true&vCenter=true&lines=Content+Creator;Frontend+Developer;3D+Modeling/Animation"/>
 </p>
 <p align="center">
   <a href="jsrangel@unbosque.edu.co">
@@ -51,5 +51,5 @@ The digital world means a lot to me; all the art and work behind it is simply fa
 <br> </br>
 <h1 align="center"> See whatever you like! You are welcome to my profile. </h1>
 <p align="center">
-  <img src="https://via.placeholder.com/1200x12/ffffff/ffffff" width="100%" style="border-radius:50px;"/>
+  <img src="https://dummyimage.com/2000x12/ffffff/ffffff" width="100%" style="border-radius:100px;"/>
 </p>
