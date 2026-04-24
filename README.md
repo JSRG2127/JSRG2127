@@ -10,14 +10,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Content+Creator;Frontend+Developer;3D+Modeling/Animation"/>
 </p>
 <p align="center">
-  <a href="jsrangel@unbosque.edu.co">
-    <img src="https://www.freeiconspng.com/thumbs/outlook-icon-png/index-of-a-i-cons-simple-icons-outlook-27.png?style=for-the-badge&logo=outlook&logoColor=660000"height="50"/>
+  <a href="mailto:sebastianrangel126@gmail.com">
+    <img src="https://cdn.simpleicons.org/Gmail/white"height="50"/>
   </a>
   <a href="https://discord.com/users/souluck">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png?style=for-the-badge&logo=discord&logoColor=660000"height="50"/>
   </a>
    <a href="https://steamcommunity.com/id/souluck/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/960px-Steam_icon_logo.svg.png?_=20220611141426?style=for-the-badge&logo=steam&logoColor=660000"height="50"/>
+    <img src="https://cdn.simpleicons.org/Steam/white?_=20220611141426?style=for-the-badge&logo=steam&logoColor=660000"height="50"/>
   </a>
 </p>
 <br> </br>
