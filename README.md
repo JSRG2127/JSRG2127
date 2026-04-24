@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=20"/>
 </p>
 
 <h1> Hey!!! Im juanse.</h1>
@@ -32,7 +32,7 @@ The digital world means a lot to me; all the art and work behind it is simply fa
 
 <br> </br>
 
-<h1 align="center>
+<h1 align="center">
   Tools that i use
 </h1>
   
@@ -52,5 +52,5 @@ The digital world means a lot to me; all the art and work behind it is simply fa
 <br> </br>
 <h1> See whatever you like! You are welcome to my profile. </h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=20"/>
 </p>
