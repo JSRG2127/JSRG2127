@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=20&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=10&radius=20"/>
 </p>
 
 <h1> Hey!!! Im juanse.</h1>
@@ -41,7 +41,7 @@ The digital world means a lot to me; all the art and work behind it is simply fa
   <img src="https://img.icons8.com/ios_filled/512/FFFFFF/davinci-resolve.png" height="60"/>
   <img src="https://img.icons8.com/ios11/512/FFFFFF/adobe-photoshop.png" height="60"/>
   <img src="https://code.visualstudio.com/assets/branding/code-stable-white.png" height="60"/>
-  <img src="https://images.icon-icons.com/936/PNG/512/html-5-logo_icon-icons.com_73528.png" style="filter: brightness(0) invert(1);" height="60"/>
+  <img src="https://cdn.simpleicons.org/html/white" height="60"/>
   <img src="https://www.pngkey.com/png/full/141-1415612_css-css3-logo-black-and-white.png" height="60"/>
   <img src="https://img.icons8.com/ios_filled/512/FFFFFF/javascript.png" height="60"/>
 </p>
@@ -52,5 +52,5 @@ The digital world means a lot to me; all the art and work behind it is simply fa
 <br> </br>
 <h1> See whatever you like! You are welcome to my profile. </h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=20&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=10&radius=20"/>
 </p>
